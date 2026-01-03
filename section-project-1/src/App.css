@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #262626;
+    padding: 1rem;
+}
+
+.nav-bar > ul {
+    color: #01d2f8;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+footer > img {
+    height: 10rem;
+}
